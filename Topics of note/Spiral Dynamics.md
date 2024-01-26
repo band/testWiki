@@ -1,0 +1,5 @@
+# Spiral Dynamics
+
+> **Spiral Dynamics** (SD) is a model of the evolutionary development of individuals, organizations, and societies.  It was initially developed by Don Edward Beck and Christopher Cowan based on the emergent cyclical theory of [[Clare W. Graves]], combined with memetics ([[Meme]]) as proposed by [[Person/Richard Dawkins]] and further developed by [[Person/Mihaly Csikszentmihalyi]].  A later collaboration between Beck and [[Person/Ken Wilber]] produced Spiral Dynamics Integral (SDi).  Several variations of Spiral Dynamics continue to exist, both independently and incorporated into or drawing on Wilber's Integral theory.  In addition to influencing the field of philosophy in the form of both integral theory and metamodernism, Spiral Dynamics is noted for its applications in management theory and business ethics, and as an example of applied memetics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Spiral%20Dynamics)
