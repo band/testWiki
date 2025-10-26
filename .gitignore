@@ -5,6 +5,10 @@
 *~
 \#*\#
 
+# baseline gitignore for MARKPUB
+# for Obsidian.md vaults
+.obsidian/*
+
 # Python
 __pycache__
 venv
@@ -12,9 +16,6 @@ venv
 # Node
 node_modules
 
-# Obsidian.md
-.obsidian/*
-!.obsidian/README.md
+# MARKPUB
+.markpub/output/*
 
-# MasWiki
-.maswiki/output/*

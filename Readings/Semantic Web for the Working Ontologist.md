@@ -1,14 +1,9 @@
+# Semantic Web for the Working Ontologist
 
-
-Title: Semantic Web for the Working Ontologist: Effective modeling in RDFS and OWL.
-
-Author(s): Dean Allmang, Jim Hendler
-
-Publication Date: 2011 (Second Edition)
-
+APA: Dean Allemang & Jim Hendler (2011). _Semantic Web for the Working Ontologist: Effective modeling in RDFS and OWL_ (2 ed). Elsevier, Morgan Kaufmann  
 Link: <http://www.worldcat.org/oclc/1185378198>
 
-p. 11: Fundamental concepts of the Semantic Web:
+page 11: Fundamental concepts of the Semantic Web:
 
 *The AAA slogan* -- Anyone can say Anything about Any topic. One of the basic tenets of the Web in general and the Semantice Web in particular.
 
